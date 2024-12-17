@@ -1,6 +1,8 @@
+﻿using UnityEngine;
+
 namespace Movimiento
 {
-    public class MovimientoTest
+    public class MovimientoTest : MonoBehaviour
     {
         
     }
